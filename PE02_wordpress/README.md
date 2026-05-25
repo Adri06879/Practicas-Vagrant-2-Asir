@@ -105,4 +105,4 @@ http://localhost:8080
 
 ## 👨‍💻 Autor
 
-Delgado Campos
+Delgado Campos  *https://github.com/Adri06879/Practicas-Vagrant-2-Asir/tree/main/PE02_wordpress**
